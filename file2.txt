@@ -1,1 +1,2 @@
 this is file2 created in demorepository folder using GUI
+this is a text file
